@@ -1,0 +1,31 @@
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Calibri, Arial;
+    font-size: 16px;
+    background: #fffbf3;
+  }
+  
+  #app {
+    margin: 35px auto;
+    padding: 30px 25px;
+    width: 600px;
+    border-radius: 15px;
+    background: #73a7fc;
+  }
+  
+  #app span {
+    display: inline-block;
+    padding: 0 5px;
+    margin: 0 5px;
+    width: 200px;
+  }
+  
+  #app button {
+    padding: 0 5px;
+    margin: 0 5px;
+  }
